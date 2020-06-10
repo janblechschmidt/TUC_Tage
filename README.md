@@ -5,6 +5,10 @@
 Um direkt loszulegen müsst ihr als erstes das Jupyter Notebook, erkennbar an der Endung `*.ipynb`, <a href="https://raw.githubusercontent.com/janblechschmidt/TUC_Tage/master/TUC_Tage_2020_Mathe_und_KI.ipynb" download>hier</a> herunterladen.
 Die Version mit Lösung erhaltet ihr <a href="https://raw.githubusercontent.com/janblechschmidt/TUC_Tage/master/TUC_Tage_2020_Mathe_und_KI_complete.ipynb" download>hier</a>.
 
+**Hinweis**: Falls euer Browser jetzt nur eine merkwürdige Textdatei mit vielen unbekannten Dingen öffnet statt den Download zu starten, rechtsklickt ihr einfach auf den Link und wählt `Ziel speichern unter` aus, um die Datei zu speichern.
+
+Alternativ könnt ihr auch einfach das ganze Verzeichnis als `zip`-Ordner über einen Klick auf den Button `Clone` herunterladen.
+
 ## 1. Möglichkeit: Cloud-Computing
 
 Unter https://colab.research.google.com/ kann jeder mit einem Google-Konto in der Cloud das Jupyter Notebook ausprobieren, ohne irgendetwas zu installieren. Nach dem Download des Jupyter Notebooks (siehe oben) müsst ihr dieses bei Google Colab hochladen und könnt starten.
