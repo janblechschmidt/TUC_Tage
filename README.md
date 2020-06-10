@@ -7,7 +7,7 @@ Die Version mit Lösung erhaltet ihr <a href="https://raw.githubusercontent.com/
 
 **Hinweis**: Falls euer Browser jetzt nur eine merkwürdige Textdatei mit vielen unbekannten Dingen öffnet statt den Download zu starten, rechtsklickt ihr einfach auf den Link und wählt `Ziel speichern unter` aus, um die Datei zu speichern.
 
-Alternativ könnt ihr auch einfach das ganze Verzeichnis als `zip`-Ordner über einen Klick auf den Button `Clone` herunterladen.
+Alternativ könnt ihr auch einfach das ganze Verzeichnis als `zip`-Ordner über einen Klick auf den Button `Clone or download` (rechts oben) herunterladen.
 
 ## 1. Möglichkeit: Cloud-Computing
 
